@@ -1,12 +1,16 @@
 # 👋 Hi, I’m Stella
 
-I'm currently transitioning into software development after more than 20 years of experience in accounting.
+I transitioned into software development after more than 20 years of experience in accounting.
 
 Passionate about computing and software for many years, I decided in late 2023 to fully commit to web and mobile development, with a pragmatic, structured and product-oriented approach.
 
 ---
 
 ## 🚀 What I do today
+
+I'm currently occupying a frontend dev role at Predicta Lab, a pretty cool french startup !
+
+On the side : 
 
 - Building **web applications** with **React / TypeScript**
 - Developing **mobile applications** with **React Native**
