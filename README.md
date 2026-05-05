@@ -22,10 +22,18 @@ I focus on concrete, useful and maintainable projects, with particular attention
 ## 🧩 Main projects
 
 ### 📱 AllyMeal  
-Mobile application built with **React Native**, currently in closed testing on the Play Store.  
+Mobile application built with **React Native**, available on the Play Store.  
 Goal: simplify everyday nutrition tracking with a practical and accessible approach.
 
 > Stack: React Native, TypeScript, Expo, tRPC, PostgreSQL, Prisma ORM
+
+---
+
+### 📱 Pexy  
+Mobile application built with **React Native**, available on the Play Store.  
+Goal: help children with language disorders and/or autism to communicate thanks to pictograms and text-to-speech.
+
+> Stack: React Native, TypeScript, Expo
 
 ---
 
